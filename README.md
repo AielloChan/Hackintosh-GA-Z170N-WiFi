@@ -22,4 +22,5 @@
 - OC (CPU over-clock)
 
 If my configure helped you, please give me a star. Thx!
+
 如果我的配置文件帮助到了你，你可以给我一个星，非常感谢！
