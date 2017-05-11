@@ -1,6 +1,10 @@
 # Hackintosh with Z170N-WiFi
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/748497-e525e634d58c118a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+## IMG file download
+
+url: https://pan.baidu.com/s/1o8NT81c password: hajf
+
 ## My hardware list:
 
 - i7-6700k
