@@ -28,3 +28,5 @@ url: https://pan.baidu.com/s/1o8NT81c password: hajf
 If my configure helped you, please give me a star. Thx!
 
 如果我的配置文件帮助到了你，你可以给我一个星，非常感谢！
+
+10.12安装的教程在这里[Gigabyte Z170N-WIFI 黑苹果 10.12](http://www.cnblogs.com/aiellochan/p/8125319.html)
